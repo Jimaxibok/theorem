@@ -1,0 +1,244 @@
+#container-1{
+    
+     background: url("https://theoreminc.net/wp-content/uploads/2020/11/Hero-Image-Overlay@2x-scaled.jpg"), right center;
+      background-repeat: no-repeat;
+      height:400px;
+      background-size: cover;
+      min-width: auto;
+     
+
+    /* align-content: center */
+}
+ #navitem{
+    font-size: 10px;
+    
+ }
+ #navitem a{
+     color:white;
+ }
+
+
+   #drop-action{ color:orange;
+ }
+ #down-menu a{
+
+     color:black;
+ }
+ #our{
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 10rem;
+     margin-bottom: 0;
+     font-size: 20px;
+     padding: 0;
+ }
+ #culture{
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top:0;
+     font-weight: 800;
+     font-size: 33px;
+     padding: 0;
+     line-height: .5;
+ }
+ #bottom-nav{
+    font-size: 10px;
+ }
+ #theorem{
+     font-size:35px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight:0;
+     color: rgb(31, 31, 83);
+     line-height: 1.5;
+ }
+ #theorem span{
+     font-size:35px;
+     font-weight: 900;
+     color: rgb(16, 16, 53);
+ }
+ @media (min-width:760px){
+     #section-1{
+         margin:0;
+         display:block;
+         width: 100%;
+     }
+     
+ }
+
+ @media (max-width:800px){
+
+    #theorem{
+        font-size: 20px;
+        width:100%;
+    }  
+    #theorem span{
+        font-size: 20px;
+        width:auto;
+        
+    }
+ }
+ #p-section{
+     font-size: 14px;
+     /* width:50%; */
+     color: gray;
+
+ }
+ #p-section1{
+     font-size: 14px;
+     color: gray;
+ }
+ #bigger{
+     font-size: 14px;
+     color: gray;
+ }
+ #section-2{
+    margin-bottom:0px;
+ }
+ #article-1{
+     margin-top:0px;
+     background:rgb(224, 121, 30);
+     font-size: 20px;
+ }
+ #cloud-img-1{
+   position: relative;
+   top:0;
+   left:80%;
+
+ }
+ #img-value{
+     width: 45%;
+ }
+ #core-value{
+     font-size: 14px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: gray;
+     line-height: 1.5;
+ }
+#our-core{
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+.img-why{
+    width:20%;
+}
+.grid-why h3{
+font-size: 16px;
+font-weight: bold;
+color: rgb(31, 31, 133);
+}
+.grid-why p{
+    font-size: 15px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#carousel-1{
+    /* border-right: 2px solid black; */
+}
+#carousel-12{
+    border-right: 2px solid black;
+}
+#lorem{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    justify-items: start;
+    text-align: justify;
+}
+#c-social{
+    background: rgb(17, 4, 71);
+}
+.committed{
+    font-size: 20px;
+}
+#carousel-2{
+    font-size: 17px;
+    text-align:justify;
+}
+@media (max-width:760px){
+#c-social{
+    display: none;
+}
+}
+#section-4{
+background: rgb(13, 13, 62);
+}
+
+#section-4 p{
+    color:white
+}
+
+#section-4 p:nth-child(1){
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#section-4 p:nth-child(2){
+    font-weight: 900;
+    font-size: 45px;
+    font-family:Helvetica, ;
+}
+#section-4 p:nth-child(3){
+    font-size: 18px;
+    
+
+}
+#section-4 p:nth-child(4){
+    font-size:18px;
+}
+#img-sec img:nth-child(2){
+    position: relative;
+    top:150px;
+    right:-350px;
+    /* opacity: 0.1; */
+
+
+}
+#img-sec img:nth-child(3){
+position: relative;
+z-index:2;
+width: 550px;
+}
+
+#sect-4 p{
+    font-size: 20px;
+}
+#img-sec img:nth-child(1){
+    position:relative ;
+    right: 60px;
+    bottom: -350px;
+}
+
+#sec-img img{
+    position: relative;
+    top: 0px;
+    left:-250px;
+}
+#join-us h3{
+
+    color:rgb(240, 94, 41)
+}
+#join-us p{
+    color:gray;
+    font-size: 20px;
+}
+#footer-id a {
+text-decoration: none;
+}
+#footer-id li{
+    list-style: none;
+    
+}
+#reserved li{
+    list-style: none;
+}
+#footer a{
+        color: gray;
+        font-size: 14px;
+}
+#reserved p{
+    margin-left:100px ;
+    font-size: 14px;
+    color: gray;
+}
+#reserved{
+    border-top: 1px solid gray;
+    border-width: 70%;
+}
